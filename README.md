@@ -10,6 +10,6 @@
   <h3>💌 Contact me</h3>
   <ul>
     <li><b>Portfolio:</b> ravelroot.com</li>
-    <li><b>Email:</b> contato@ravelroot.com</li> 
+    <li>contato@ravelroot.com</li> 
   </ul>
 </div>
