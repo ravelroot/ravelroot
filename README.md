@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="685" src="assets/ravel-2.gif" alt="Cat getting dressed">
+  <img width="675" src="assets/ravel-2.gif" alt="Cat getting dressed">
   <h3>Hi, I'm Erik! ☕</h3>
   <p>I'm a software engineer currently working on cool stuff.</p>
 </div>
